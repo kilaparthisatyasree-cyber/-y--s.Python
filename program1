@@ -1,0 +1,4 @@
+import numpy as np
+
+# (a) To get help on the add function
+help(np.add)
